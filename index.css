@@ -118,14 +118,12 @@
  @media screen and (max-width: 778px) {
     .body__img-mobile {
         display: none;
-     margin:2px;
+     margin:3px;
     }
      .fbox-container{
         max-width: 400px;
         margin-bottom: 100px;
-      margin-left:8px;
-      
-      
+
    
     }
  }
